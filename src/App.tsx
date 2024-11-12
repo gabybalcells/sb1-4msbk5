@@ -20,10 +20,10 @@ function App() {
         <div className="max-w-4xl mx-auto">
           <div className="mb-8">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-2">
-              Find Fresh Powder My Dude
+              Find Fresh Powder My Dude!!!!
             </h2>
             <p className="text-gray-600 dark:text-gray-400">
-              Discover the best skiing conditions based on new snow and recently opened runs.
+              Discover the best skiing conditions based on new snow and recently opened runs. WOOOOOO!!!!
             </p>
           </div>
 
